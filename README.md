@@ -2,7 +2,7 @@
 
 ### My name is Merima Ćeranić and I am Software Developer at [Ministry of Proframming](https://www.ministryofprogramming.com/).🎓
 
-- 🌱 Currently I'm learning about full-stack development and data science 💻
+- 🌱 I am a software engineer specializing in startups, with a focus on developing innovative solutions. 💻
 
 ### 📫 Where to find me
 
